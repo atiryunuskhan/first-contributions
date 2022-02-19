@@ -1,6 +1,7 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
+- [Atir Yunus Khan](https://github.com/atiryunuskhan)
 - [Rafael Kayo](https://github.com/rKayoo)
 - [C.N. Mbhalati](https://github.com/CN-M)
 - [Phillip N.] (https://github.com/phuclinh9802)
